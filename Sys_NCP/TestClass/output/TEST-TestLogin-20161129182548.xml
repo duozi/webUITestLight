@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="1" failures="0" name="TestLogin-20161129182548" skipped="0" tests="1" time="0.001">
+	<testcase classname="TestLogin" name="test_login" time="0.001">
+		<error message="unbound method driver_init() must be called with WebDriver_Single instance as first argument (got str instance instead)" type="TypeError">
+<![CDATA[Traceback (most recent call last):
+  File "D:/LYWorks/PythonWorks/svn_autotest/WebUITestLight/Sys_NCP/TestClass/TestLogin.py", line 12, in setUp
+    cls.driver = WebDriver_Single.driver_init('Firefox')
+TypeError: unbound method driver_init() must be called with WebDriver_Single instance as first argument (got str instance instead)
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

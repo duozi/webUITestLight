@@ -1,0 +1,2 @@
+include WebUITestLight/Utils/ReportTemplate.html
+include README.txt

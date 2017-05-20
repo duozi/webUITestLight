@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="1" failures="0" name="unittest.suite._ErrorHolder-20161130140335" skipped="0" tests="1" time="0.000">
+	<testcase classname="setUpClass (__main__" name="TestLogin)" time="0.000">
+		<error message="unbound method setUpClass() must be called with TestLogin instance as first argument (got nothing instead)" type="TypeError">
+<![CDATA[TypeError: unbound method setUpClass() must be called with TestLogin instance as first argument (got nothing instead)
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

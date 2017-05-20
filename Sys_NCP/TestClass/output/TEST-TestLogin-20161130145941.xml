@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="1" failures="0" name="TestLogin-20161130145941" skipped="0" tests="1" time="4.965">
+	<testcase classname="TestLogin" name="test_login" time="4.965">
+		<error message="'PageLoginJsp' object has no attribute 'pageControl'" type="AttributeError">
+<![CDATA[Traceback (most recent call last):
+  File "D:/LYWorks/PythonWorks/svn_autotest/WebUITestLight/Sys_NCP/TestClass/TestLogin.py", line 17, in test_login
+    actlogin.userlogin('admin','123456')
+  File "D:\LYWorks\PythonWorks\svn_autotest\WebUITestLight\Sys_NCP\PageObj\PageLoginJsp.py", line 16, in userlogin
+    input_username = self.driver.find_element(*self.pageControl.input_username)
+AttributeError: 'PageLoginJsp' object has no attribute 'pageControl'
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

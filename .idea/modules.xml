@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/WebUITestLight.iml" filepath="$PROJECT_DIR$/.idea/WebUITestLight.iml" />
+      <module fileurl="file://file:E:/../../..//E:/WebUITestLight/.idea/WebUITestLight.iml" filepath="file:E:/../../..//E:/WebUITestLight/.idea/WebUITestLight.iml" />
+      <module fileurl="file://file:E:/../../..//E:/interface_autotest/.idea/interface_autotest.iml" filepath="file:E:/../../..//E:/interface_autotest/.idea/interface_autotest.iml" />
+    </modules>
+  </component>
+</project>
